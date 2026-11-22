@@ -24,4 +24,4 @@ JavaScript · TypeScript · React · Node.js · Express · MongoDB · Flutter ·
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/durgadas-karmakar-60ab70429) · [Portfolio](https://durgadas-karmakar07.github.io/portfolio-2/) · durgask96@gmail.com
+[LinkedIn](https://www.linkedin.com/in/durgadas-karmakar-60ab70429) · [Portfolio](https://durgadas-karmakar07.github.io/portfolio-2/) · durgadask96@gmail.com
